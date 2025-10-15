@@ -39,11 +39,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="169" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg5ZXI1bHhkNDI3ZHJrNGc4cXV0cDZ0Z3d1djA0ZzVjc240Z25mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1SH63gOjMPpS/giphy.gif"  />
-
-###
 
 <br clear="both">
 
