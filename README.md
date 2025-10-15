@@ -1,52 +1,91 @@
-<h2 align="left">Hi 👋! My name is Aditya and I'm a 4rth year student at NIT DELHI persuing my Btech in Computer Science And Engineering</h2>
+<img align="right" height="169" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXg5ZXI1bHhkNDI3ZHJrNGc4cXV0cDZ0Z3d1djA0ZzVjc240Z25mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1SH63gOjMPpS/giphy.gif" />
 
-###
+<h2 align="left">Hi 👋! I'm Aditya Kumar</h2>
+
+<p align="left">
+🎓 4th Year B.Tech CSE Student at <b>NIT Delhi</b> <br>
+💻 Passionate about Full Stack Development, Cybersecurity & AI <br>
+🚀 Always eager to learn, build, and solve real-world problems
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 Currently learning **Product & Program Management** along with Full Stack Development.  
+- 🧠 Exploring **AI + Cybersecurity** and building impactful projects.  
+- 🧰 I love working on real-world problems that challenge me to grow.  
+- 🏆 Goal: Become a **Tech Leader / CTO** and build products people love.  
+- ⚡ Fun fact: I enjoy creating meaningful UI/UX experiences and learning new technologies fast.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumar221210008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
 </div>
 
-###
+---
+
+### 🚀 Featured Projects
+
+#### 🧭 [Travel.ai](https://github.com/adityakumar221210008)  
+AI-powered travel planner that generates personalized itineraries based on user preferences, budget, and time.  
+**Tech:** React Native, OpenAI API, Node.js, MongoDB
+
+#### 🧑‍🎓 [Portfolio Website](https://github.com/adityakumar221210008)  
+My personal portfolio showcasing my skills, projects, and achievements.  
+**Tech:** HTML, CSS, JavaScript, React
+
+#### 🏫 [Student Management System](https://github.com/adityakumar221210008)  
+A full-stack system to manage student data, built for a college project.  
+**Tech:** MERN Stack
+
+---
+
+### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumar221210008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumar221210008&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
-###
+---
+
+### 🌐 Connect with Me
 
 <div align="left">
   <a href="mailto:aditya752907@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
   </a>
-  <a href="www.linkedin.com/in/aditya-kumar-a7162723a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/aditya-kumar-a7162723a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
 </div>
 
-
-<br clear="both">
+---
 
 <img src="https://raw.githubusercontent.com/adityakumar221210008/adityakumar221210008/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
-<div align="left">
-</div>
-
-###
+<p align="center">
+  🧠 <i>“Code. Learn. Repeat. And build something impactful!”</i>
+</p>
