@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya and I'm a full stack web developer</h2>
+<h2 align="left">Hi 👋! My name is Aditya and I'm a 4rth year student at NIT DELHI persuing my Btech in Computer Science And Engineering</h2>
 
 ###
 
