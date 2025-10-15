@@ -12,10 +12,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 Currently learning **Product & Program Management** along with Full Stack Development.  
+- 🌱 Currently learning **Full Stack Development** along with .  
 - 🧠 Exploring **AI + Cybersecurity** and building impactful projects.  
-- 🧰 I love working on real-world problems that challenge me to grow.  
-- 🏆 Goal: Become a **Tech Leader / CTO** and build products people love.  
+- 🧰 I love working on real-world problems that challenge me to grow.    
 - ⚡ Fun fact: I enjoy creating meaningful UI/UX experiences and learning new technologies fast.
 
 ---
