@@ -44,10 +44,6 @@
 
 ### 🚀 Featured Projects
 
-#### 🧭 [Travel.ai](https://github.com/adityakumar221210008)  
-AI-powered travel planner that generates personalized itineraries based on user preferences, budget, and time.  
-**Tech:** React Native, OpenAI API, Node.js, MongoDB
-
 #### 🧑‍🎓 [Portfolio Website](https://github.com/adityakumar221210008)  
 My personal portfolio showcasing my skills, projects, and achievements.  
 **Tech:** HTML, CSS, JavaScript, React
