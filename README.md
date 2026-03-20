@@ -46,7 +46,7 @@
 
 #### 🧑‍🎓 [Portfolio Website](https://github.com/adityakumar221210008)  
 My personal portfolio showcasing my skills, projects, and achievements.  
-**Tech:** HTML, CSS, JavaScript, React
+**Tech:** HTML, CSS, JavaScript, React and Python
 
 #### 🏫 [Student Management System](https://github.com/adityakumar221210008)  
 A full-stack system to manage student data, built for a college project.  
