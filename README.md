@@ -2,55 +2,57 @@
 
 <h2 align="left">Hi 👋! I'm Aditya Kumar</h2>
 <p align="left">
-🎓 4th Year B.Tech CSE Student at <b>NIT Delhi</b> <br>
-💻 Passionate about Full Stack Development, Cybersecurity & AI <br>
-🚀 Always eager to learn, build, and solve real-world problems
+🚀 AI Engineer building real-world systems using LLMs, RAG, and multi-agent architectures <br>
+🎓 B.Tech CSE @ <b>NIT Delhi</b> <br>
+💡 Focused on turning ideas into working AI products
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧠 About Me
 
-- 🌱 Currently learning **Full Stack Development** along with .  
-- 🧠 Exploring **AI + Cybersecurity** and building impactful projects.  
-- 🧰 I love working on real-world problems that challenge me to grow.    
-- ⚡ Fun fact: I enjoy creating meaningful UI/UX experiences and learning new technologies fast.
+- 🤖 Building **AI systems** using LLMs, RAG, and agents  
+- ⚙️ Designing **automation workflows** and real-world AI tools  
+- 🧩 Interested in solving problems through intelligent systems  
+- 🚀 Focused on execution — not just learning  
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
 </div>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧑‍🎓 [Portfolio Website](https://github.com/adityakumar221210008)  
-My personal portfolio showcasing my skills, projects, and achievements.  
-**Tech:** HTML, CSS, JavaScript, React and Python
+#### 🤖 Multi-Agent AI System *(in progress)*
+A system where multiple AI agents collaborate to solve tasks and automate workflows.  
+**Tech:** Python, LLM APIs  
 
-#### 🏫 [Student Management System](https://github.com/adityakumar221210008)  
-A full-stack system to manage student data, built for a college project.  
-**Tech:** MERN Stack
+#### 🧠 RAG LLM Application *(in progress)*
+Retrieval-Augmented Generation system for domain-specific question answering.  
+**Tech:** Python, Vector DB, Embeddings  
+
+#### ⚡ AI Automation Workflows *(in progress)*
+Automation system integrating AI models with APIs to perform real-world tasks.  
+**Tech:** n8n, Python  
+
+---
 
 ### 🌐 Connect with Me
 
@@ -70,5 +72,5 @@ A full-stack system to manage student data, built for a college project.
 ---
 
 <p align="center">
-  🧠 <i>“Code. Learn. Repeat. And build something impactful!”</i>
+  🧠 <i>Building AI systems that solve real problems.</i>
 </p>
