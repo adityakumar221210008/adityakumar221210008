@@ -40,11 +40,11 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 Multi-Agent AI System *https://github.com/adityakumar221210008/rag-document-intelligence*
+#### 🤖 Multi-Agent AI System *(in progress)*
 A system where multiple AI agents collaborate to solve tasks and automate workflows.  
 **Tech:** Python, LLM APIs  
 
-#### 🧠 RAG LLM Application *(in progress)*
+#### 🧠 RAG LLM Application *(https://github.com/adityakumar221210008/rag-document-intelligence)*
 Retrieval-Augmented Generation system for domain-specific question answering.  
 **Tech:** Python, Vector DB, Embeddings  
 
