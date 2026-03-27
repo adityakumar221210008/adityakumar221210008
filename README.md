@@ -40,7 +40,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 Multi-Agent AI System *(in progress)*
+#### 🤖 Multi-Agent AI System *https://github.com/adityakumar221210008/rag-document-intelligence*
 A system where multiple AI agents collaborate to solve tasks and automate workflows.  
 **Tech:** Python, LLM APIs  
 
