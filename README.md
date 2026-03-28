@@ -63,5 +63,45 @@ Upload PDFs, DOCX, or TXT files and query them with natural language — powered
 
 ---
 
+#### ⚡ [AI Chat SaaS Platform](https://github.com/adityakumar221210008/ai-chat-saas)
+A full-stack ChatGPT-like SaaS platform with a bespoke editorial design system called **The Digital Atelier**.
+
+**Highlights:**
+- JWT authentication with register/login flow
+- Real-time streaming responses via Server-Sent Events (SSE)
+- Persistent chat history stored in SQLite
+- Multi-model support — switch between Ollama, OpenAI, and Anthropic models
+- Custom UI: Newsreader serif, warm cream palette, glassmorphism nav
+
+**Tech:** `Next.js` `TypeScript` `FastAPI` `SQLite` `SQLAlchemy` `JWT` `Ollama` `OpenAI` `Anthropic`
+
+---
+
+#### 🤖 Multi-Agent AI System *(in progress)*
+A planner–executor–critic agent architecture for autonomous task decomposition and execution.  
+Multiple LLM-powered agents collaborate, communicate, and iteratively refine outputs.
+
+**Tech:** `Python` `LangChain` `LLM APIs`
+
+---
+
+### 🌐 Connect with Me
+
+<div align="left">
+  <a href="mailto:aditya752907@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-a7162723a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/adityakumar221210008/adityakumar221210008/output/snake.svg" alt="Snake animation" />
+
+---
+
 <p align="center">
   🧠 <i>Building AI systems that solve real problems.</i>
+</p>
