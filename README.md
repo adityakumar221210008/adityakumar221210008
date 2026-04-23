@@ -4,18 +4,19 @@
 
 <p align="left">
 🚀 AI Engineer building real-world systems using LLMs, RAG, and multi-agent architectures <br>
-🎓 B.Tech CSE @ <b>NIT Delhi</b> <br>
-💡 Focused on turning ideas into working AI products
+🎓 B.Tech CSE @ <b>NIT Delhi</b> · Class of 2026 <br>
+💡 Focused on turning ideas into working AI products <br>
+🌐 <a href="https://aditya-in-ai.vercel.app/">aditya-in-ai.vercel.app</a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🤖 Building **production AI systems** — RAG pipelines, chat platforms, agent networks
-- ⚙️ Designing **real backends** with FastAPI, SQLite, JWT auth, and streaming APIs
-- 🧩 Interested in solving problems through intelligent, autonomous systems
-- 🚀 Focused on execution — not just learning
+- 🤖 Building **production-style AI systems** — RAG pipelines, streaming chat platforms, multi-agent networks
+- ⚙️ Designing **real backends** with FastAPI, SQLAlchemy, JWT auth, and SSE streaming
+- 🔍 Exploring **retrieval systems, agent orchestration, and LLM eval harnesses**
+- 🚀 Focused on **execution over theory** — ship, measure, iterate
 
 ---
 
@@ -26,62 +27,76 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
 
-**AI/ML:** LLM APIs · RAG · FAISS · Embeddings · LangChain · Ollama · Prompt Engineering  
-**Backend:** FastAPI · REST APIs · JWT Auth · SSE Streaming · SQLAlchemy  
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**Tools:** Git · Docker · n8n · AWS · Vercel
+**AI / GenAI:** LLM APIs · RAG · FAISS · Sentence-Transformers · LangChain · Ollama · Prompt Engineering · Multi-Agent Systems
+**Backend:** FastAPI · REST APIs · JWT Auth · SSE Streaming · SQLAlchemy · Pydantic
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS
+**Data & Storage:** PostgreSQL · SQLite · FAISS · Vector DBs · Pandas · NumPy
+**Tools & DevOps:** Git · Docker · Linux · AWS · Vercel · n8n
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🧠 [RAG Document Intelligence System](https://github.com/adityakumar221210008/rag-document-intelligence)
-A production-grade Retrieval-Augmented Generation system for accurate Q&A over documents.  
-Upload PDFs, DOCX, or TXT files and query them with natural language — powered by local LLMs via Ollama (free) or OpenAI.
+Production-style RAG for accurate Q&A over documents with **full source attribution**.
+Upload PDFs, DOCX, or TXT and query them in natural language — powered by local LLMs via Ollama or OpenAI.
 
-**Highlights:**
-- Semantic search with FAISS vector index (cosine similarity)
-- Multi-document ingestion with persistent index (survives restarts)
-- Conversational memory with session-based chat history
-- Source attribution on every answer
-- Swagger UI at `/docs` out of the box
+- 🔍 Semantic search via **FAISS** with cosine similarity
+- 📚 Multi-document ingestion with a **persistent index** (survives restarts)
+- 💬 Session-based conversational memory for contextual follow-ups
+- 📎 **Source citations** on every answer — no hallucinations
+- 📘 Swagger UI at `/docs` out of the box
 
 **Tech:** `Python` `FastAPI` `FAISS` `sentence-transformers` `LangChain` `Ollama` `OpenAI`
 
 ---
 
 #### ⚡ [AI Chat SaaS Platform](https://github.com/adityakumar221210008/ai-chat-saas)
-A full-stack ChatGPT-like SaaS platform with a bespoke editorial design system called **The Digital Atelier**.
+Full-stack ChatGPT-style SaaS with a bespoke editorial design system — **The Digital Atelier**.
 
-**Highlights:**
-- JWT authentication with register/login flow
-- Real-time streaming responses via Server-Sent Events (SSE)
-- Persistent chat history stored in SQLite
-- Multi-model support — switch between Ollama, OpenAI, and Anthropic models
-- Custom UI: Newsreader serif, warm cream palette, glassmorphism nav
+- 🔐 **JWT authentication** with register / login flow
+- ⚡ Real-time **SSE streaming** responses — sub-second perceived latency
+- 💾 Persistent chat history via SQLite + SQLAlchemy
+- 🔄 **Tri-model support** — switch between Ollama, OpenAI, and Anthropic
+- 🎨 Custom UI: Newsreader serif, warm cream palette, glassmorphism nav
 
 **Tech:** `Next.js` `TypeScript` `FastAPI` `SQLite` `SQLAlchemy` `JWT` `Ollama` `OpenAI` `Anthropic`
 
 ---
 
-#### 🤖 Multi-Agent AI System *(in progress)*
-A planner–executor–critic agent architecture for autonomous task decomposition and execution.  
-Multiple LLM-powered agents collaborate, communicate, and iteratively refine outputs.
+#### 🤖 [Multi-Agent AI System](https://github.com/adityakumar221210008/multi-agent-system)
+Planner–Executor–Critic architecture for autonomous task decomposition and iterative output refinement.
 
-**Tech:** `Python` `LangChain` `LLM APIs`
+- 🧭 Role-separated agents with narrow system prompts → fewer hallucinations
+- 🔁 Critic-driven feedback loop refines Executor output until quality threshold is met
+- 🔌 Pluggable tool system — register a function, it's auto-exposed to the Executor
+- 🛡️ Hard iteration caps to prevent runaway token spend
+
+**Tech:** `Python` `LangChain` `Pydantic` `LLM APIs`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakumar221210008&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumar221210008&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -94,11 +109,10 @@ Multiple LLM-powered agents collaborate, communicate, and iteratively refine out
   <a href="https://www.linkedin.com/in/aditya-kumar-a7162723a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
+  <a href="https://aditya-in-ai.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Portfolio"/>
+  </a>
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/adityakumar221210008/adityakumar221210008/output/snake.svg" alt="Snake animation" />
 
 ---
 
