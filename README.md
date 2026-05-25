@@ -1,6 +1,6 @@
 <img align="right" height="169" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHUzNXozcG56dWpuMXVuYmFveDFoNGlqODc2aXl3MHhnZnVoY3gzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPVATCmhcgEbzoTloG/giphy.gif" />
 
-<h2 align="left">Hi 👋! I'm Aditya Kumar</h2>
+<h2 align="left">Hi 👋! I'm Aditya</h2>
 
 <p align="left">
 🚀 AI Engineer building real-world systems using LLMs, RAG, and multi-agent architectures <br>
@@ -52,7 +52,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧠 [RAG Document Intelligence System](https://github.com/adityakumar221210008/rag-document-intelligence)
+#### 🧠 [RAG Document Intelligence System](https://github.com/tychedaemon/rag-document-intelligence)
 Production-style RAG for accurate Q&A over documents with **full source attribution**.
 Upload PDFs, DOCX, or TXT and query them in natural language — powered by local LLMs via Ollama or OpenAI.
 
@@ -66,7 +66,7 @@ Upload PDFs, DOCX, or TXT and query them in natural language — powered by loca
 
 ---
 
-#### ⚡ [AI Chat SaaS Platform](https://github.com/adityakumar221210008/ai-chat-saas)
+#### ⚡ [AI Chat SaaS Platform](https://github.com/tychedaemon/ai-chat-saas)
 Full-stack ChatGPT-style SaaS with a bespoke editorial design system — **The Digital Atelier**.
 
 - 🔐 **JWT authentication** with register / login flow
@@ -76,18 +76,6 @@ Full-stack ChatGPT-style SaaS with a bespoke editorial design system — **The D
 - 🎨 Custom UI: Newsreader serif, warm cream palette, glassmorphism nav
 
 **Tech:** `Next.js` `TypeScript` `FastAPI` `SQLite` `SQLAlchemy` `JWT` `Ollama` `OpenAI` `Anthropic`
-
----
-
-#### 🤖 [Multi-Agent AI System](https://github.com/adityakumar221210008/multi-agent-system)
-Planner–Executor–Critic architecture for autonomous task decomposition and iterative output refinement.
-
-- 🧭 Role-separated agents with narrow system prompts → fewer hallucinations
-- 🔁 Critic-driven feedback loop refines Executor output until quality threshold is met
-- 🔌 Pluggable tool system — register a function, it's auto-exposed to the Executor
-- 🛡️ Hard iteration caps to prevent runaway token spend
-
-**Tech:** `Python` `LangChain` `Pydantic` `LLM APIs`
 
 ---
 
