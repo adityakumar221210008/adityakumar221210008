@@ -1,4 +1,4 @@
-<img align="right" height="169" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRqODgydjU3dG5vNzliYnQxcXhhbmhrNjZxY3Ftc2F2c2V5dXlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" />
+<img align="right" height="269" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRqODgydjU3dG5vNzliYnQxcXhhbmhrNjZxY3Ftc2F2c2V5dXlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" />
 
 <h2 align="left">Hi 👋! I'm Aditya</h2>
 
@@ -47,36 +47,6 @@
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS
 **Data & Storage:** PostgreSQL · SQLite · FAISS · Vector DBs · Pandas · NumPy
 **Tools & DevOps:** Git · Docker · Linux · AWS · Vercel · n8n
-
----
-
-### 🚀 Featured Projects
-
-#### 🧠 [RAG Document Intelligence System](https://github.com/tychedaemon/rag-document-intelligence)
-Production-style RAG for accurate Q&A over documents with **full source attribution**.
-Upload PDFs, DOCX, or TXT and query them in natural language — powered by local LLMs via Ollama or OpenAI.
-
-- 🔍 Semantic search via **FAISS** with cosine similarity
-- 📚 Multi-document ingestion with a **persistent index** (survives restarts)
-- 💬 Session-based conversational memory for contextual follow-ups
-- 📎 **Source citations** on every answer — no hallucinations
-- 📘 Swagger UI at `/docs` out of the box
-
-**Tech:** `Python` `FastAPI` `FAISS` `sentence-transformers` `LangChain` `Ollama` `OpenAI`
-
----
-
-#### ⚡ [AI Chat SaaS Platform](https://github.com/tychedaemon/ai-chat-saas)
-Full-stack ChatGPT-style SaaS with a bespoke editorial design system — **The Digital Atelier**.
-
-- 🔐 **JWT authentication** with register / login flow
-- ⚡ Real-time **SSE streaming** responses — sub-second perceived latency
-- 💾 Persistent chat history via SQLite + SQLAlchemy
-- 🔄 **Tri-model support** — switch between Ollama, OpenAI, and Anthropic
-- 🎨 Custom UI: Newsreader serif, warm cream palette, glassmorphism nav
-
-**Tech:** `Next.js` `TypeScript` `FastAPI` `SQLite` `SQLAlchemy` `JWT` `Ollama` `OpenAI` `Anthropic`
-
 ---
 
 ### 📊 GitHub Stats
