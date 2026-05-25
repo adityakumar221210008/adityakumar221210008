@@ -41,12 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
-
-**AI / GenAI:** LLM APIs · RAG · FAISS · Sentence-Transformers · LangChain · Ollama · Prompt Engineering · Multi-Agent Systems
-**Backend:** FastAPI · REST APIs · JWT Auth · SSE Streaming · SQLAlchemy · Pydantic
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS
-**Data & Storage:** PostgreSQL · SQLite · FAISS · Vector DBs · Pandas · NumPy
-**Tools & DevOps:** Git · Docker · Linux · AWS · Vercel · n8n
 ---
 
 ### 📊 GitHub Stats
