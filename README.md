@@ -46,7 +46,6 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tychedaemon&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tychedaemon&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
