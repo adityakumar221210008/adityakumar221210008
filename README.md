@@ -50,6 +50,11 @@
 </div>
 
 ---
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tychedaemon/tychedaemon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ### 🌐 Connect with Me
 
