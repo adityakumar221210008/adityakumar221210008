@@ -41,8 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
----
-### 🐍 Contribution Snake
+
+🐍 Contribution Snake
 
 <div align="center"> <img src="https://raw.githubusercontent.com/tychedaemon/tychedaemon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
 
