@@ -3,7 +3,7 @@
 <h2 align="left">Hi 👋! I'm Aditya</h2>
 
 <p align="left">
-🚀 AI Engineer building real-world systems using LLMs, RAG, and multi-agent architectures <br>
+🚀 AI Engineer building real-world systems using LLMs and multi-agent architectures <br>
 🎓 B.Tech CSE @ <b>NIT Delhi</b> · Class of 2026 <br>
 💡 Focused on turning ideas into working AI products <br>
 🌐 <a href="https://aditya-in-ai.vercel.app/">aditya-in-ai.vercel.app</a>
@@ -13,7 +13,8 @@
 
 ### 🧠 About Me
 
-- 🤖 Building **production-style AI systems** — RAG pipelines, streaming chat platforms, multi-agent networks
+- 🤖 Building **production-style AI systems** — streaming chat platforms, multi-agent networks
+- 🎵 Built **[PlaySomething](https://github.com/tychedaemon/PlaySomething)** — a music discovery app powered by the iTunes API with Next.js
 - ⚙️ Designing **real backends** with FastAPI, SQLAlchemy, JWT auth, and SSE streaming
 - 🔍 Exploring **retrieval systems, agent orchestration, and LLM eval harnesses**
 - 🚀 Focused on **execution over theory** — ship, measure, iterate
