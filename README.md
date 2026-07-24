@@ -1,68 +1,33 @@
-<img align="right" height="269" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRqODgydjU3dG5vNzliYnQxcXhhbmhrNjZxY3Ftc2F2c2V5dXlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" />
+### Hi 👋! I'm Aditya
 
-<h2 align="left">Hi 👋! I'm Aditya</h2>
 
-<p align="left">
-🚀 AI Engineer building real-world systems using LLMs and multi-agent architectures <br>
-🎓 B.Tech CSE @ <b>NIT Delhi</b> · Class of 2026 <br>
-💡 Focused on turning ideas into working AI products <br>
-🌐 <a href="https://aditya-in-ai.vercel.app/">aditya-in-ai.vercel.app</a>
-</p>
 
----
+🚀 B.Tech CSE @ **NIT Delhi** · Class of 2026
 
-### 🧠 About Me
+🧠 I direct AI tools to ship full-stack systems end-to-end — RAG pipelines, multi-agent workflows, production backends
 
-- 🤖 Building **production-style AI systems** — streaming chat platforms, multi-agent networks
-- 🎵 Built **[PlaySomething](https://github.com/tychedaemon/PlaySomething)** — a music discovery app powered by the iTunes API with Next.js
-- ⚙️ Designing **real backends** with FastAPI, SQLAlchemy, JWT auth, and SSE streaming
-- 🔍 Exploring **retrieval systems, agent orchestration, and LLM eval harnesses**
-- 🚀 Focused on **execution over theory** — ship, measure, iterate
+🏆 Scored 91.5 in Flipkart Gridlock 2.0 (spatio-temporal traffic prediction, XGBoost/CatBoost ensembles)
+
+🌐 [aditya-in-ai.vercel.app](https://aditya-in-ai.vercel.app)
+
+
 
 ---
 
-### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</div>
 
-🐍 Contribution Snake
+### 🍎 About Me
 
-<div align="center"> <img src="https://raw.githubusercontent.com/tychedaemon/tychedaemon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
+- 🎵 Built **[PlaySomething](https://playsomething-link)** — a music discovery app powered by the iTunes API and Next.js
 
-### 🌐 Connect with Me
+- 🚗 Placed with a **91.5 score** in Flipkart's Gridlock 2.0 hackathon, engineering demand-prediction models under time pressure
 
-<div align="left">
-  <a href="mailto:aditya752907@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-kumar-a7162723a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
-  </a>
-  <a href="https://aditya-in-ai.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Portfolio"/>
-  </a>
-</div>
+- 🔐 Wrote my B.Tech thesis, **MLSecVANET** — an ML framework for detecting attacks on vehicular networks, including a full code-vs-thesis reproducibility audit
 
----
+- ⚙️ Comfortable across the stack: FastAPI/SQLAlchemy backends, JWT auth, SSE streaming, React/Next.js frontends
 
-<p align="center">
-  🧠 <i>Building AI systems that solve real problems.</i>
-</p>
+- 🎯 Bias toward shipping — I'd rather have three working prototypes than one unfinished "perfect" one
+
+
+
+<sub>Building systems that solve real problems — and can prove it.</sub>
