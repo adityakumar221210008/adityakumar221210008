@@ -8,7 +8,7 @@
 
 leaning **Full Stack Dev** building with **Next.js, TypeScript, Tailwind CSS, FastAPI, and Python**.
 
- **Portfolio:** https://adityakumar-portfolio-website.netlify.app
+ **Portfolio:** [https://adityakumar-portfolio-website.netlify.app](https://aditya-fullstack.vercel.app/)
 
 </div>
 
